@@ -1,0 +1,22 @@
+{
+    "goodLogin":[
+        {
+            "username": "valid1",
+            "password": "valid1"
+        },
+        { 
+            "username":"valid2",
+            "password":"valid2"
+        }
+        ],
+        "badlogin":[
+            {
+                "username": " ",
+                "password": " "
+            },
+            { 
+                "username":"invalid2",
+                "password":" "
+            } 
+        ]
+}
